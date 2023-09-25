@@ -19,11 +19,5 @@ func main() {
 		}, "layouts/main")
 	})
 
-	app.Get("/table", func(c *fiber.Ctx) error {
-		return c.Render("index", fiber.Map{
-			"Title": "Hello, World!",
-		}, "layouts/main")
-	})
-
 	app.Listen(":3000")
 }
