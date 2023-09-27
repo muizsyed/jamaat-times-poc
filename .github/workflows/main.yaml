@@ -23,6 +23,11 @@ jobs:
     - name: Build app
       run: go build -v
 
+    - name: Login to gcloud
+      uses: 'google-github-actions/auth@v1'
+      with:
+        credentials_json: ${{ secrets.GCP_CREDENTIALS }}
+
     - name: Deploy to App Engine
       id: deploy
       uses: google-github-actions/deploy-appengine@v1
@@ -30,7 +35,6 @@ jobs:
         deliverables: app.yaml
         version: v1
         project_id: ${{ secrets.GCP_PROJECT }}
-        credentials_json: ${{ secrets.GCP_CREDENTIALS }}
 
     - name: Test
       run: curl "${{ steps.deploy.outputs.url }}"
