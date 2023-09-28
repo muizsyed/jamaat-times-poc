@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/carlmjohnson/versioninfo"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/template/html/v2"
 )
@@ -15,9 +16,34 @@ func main() {
 
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.Render("index", fiber.Map{
-			"Title": "Hello, World!",
+			"Title":   "Hello, World!",
+			"Version": versioninfo.Version,
 		}, "layouts/main")
 	})
 
 	app.Listen(":8081")
+}
+
+type Masjid struct {
+	Name     string
+	City     string
+	Postcode string
+}
+
+type Prayer struct {
+	Start  string
+	Jamaat string
+}
+
+type Month struct {
+	Name string
+	Days []Day
+}
+
+type Day struct {
+	Fajr    Prayer
+	Zuhr    Prayer
+	Asr     Prayer
+	Maghrib Prayer
+	Esha    Prayer
 }
