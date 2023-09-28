@@ -16,8 +16,8 @@ func main() {
 
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.Render("index", fiber.Map{
-			"Title":   "Hello, World!",
-			"Version": versioninfo.Version,
+			"Title":    "Hello, World!",
+			"Revision": versioninfo.Revision,
 		}, "layouts/main")
 	})
 

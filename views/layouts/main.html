@@ -17,7 +17,7 @@
 
             <nav>
                 <ul class="flex items-center justify-between font-semibold text-sm text-[#411160]  no-underline">
-                    <li><a class="uppercase">Salaat Times {{.Version}}</a></li>
+                    <li><a class="uppercase">Salaat Times</a></li>
                     <!--<li><a class="hover:text-gray-200 hover:underline px-4" href="#">Shop</a></li>
                     <li><a class="hover:text-gray-200 hover:underline px-4" href="#">About</a></li> -->
                 </ul>
@@ -40,6 +40,9 @@
         {{embed}}
     </main>
 
+    <footer class="mx-8 text-right text-xs text-gray-600">
+        {{.Revision}}
+    </footer>
 </body>
 
 </html>
