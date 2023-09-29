@@ -11,6 +11,8 @@ func main() {
 	engine := html.New("./views", ".html")
 	engine.Reload(true)
 
+	appRevision := os.Getenv("VCS_REVISION")
+
 	app := fiber.New(fiber.Config{
 		Views: engine,
 	})
@@ -18,7 +20,7 @@ func main() {
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.Render("index", fiber.Map{
 			"Title":    "Hello, World!",
-			"Revision": os.Getenv("VCS_REVISION"),
+			"Revision": appRevision,
 		}, "layouts/main")
 	})
 
