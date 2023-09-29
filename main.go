@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/carlmjohnson/versioninfo"
+	"os"
+
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/template/html/v2"
 )
@@ -17,7 +18,7 @@ func main() {
 	app.Get("/", func(c *fiber.Ctx) error {
 		return c.Render("index", fiber.Map{
 			"Title":    "Hello, World!",
-			"Revision": versioninfo.Revision,
+			"Revision": os.Getenv("VCS_REVISION"),
 		}, "layouts/main")
 	})
 

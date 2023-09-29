@@ -20,6 +20,9 @@ jobs:
       with:
         go-version: '1.21'
     
+    - id: commit
+      uses: prompt/actions-commit-hash@v3
+    
     - name: Build app
       run: go build -v
 
@@ -35,6 +38,8 @@ jobs:
         deliverables: app.yaml
         version: v1
         project_id: ${{ secrets.GCP_PROJECT }}
+        env_vars: |-
+          VCS_REVISION=${{ steps.commit.outputs.short }}
 
     - name: Test
       run: curl "${{ steps.deploy.outputs.url }}"
