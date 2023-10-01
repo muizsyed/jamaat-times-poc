@@ -38,6 +38,8 @@ jobs:
         deliverables: app.yaml
         version: v1
         project_id: ${{ secrets.GCP_PROJECT }}
+        flags: |-
+          --gcs-staging-source-dir=gs://us-artifacts-salaah-x/${{ github.workflow }}-${{ github.sha }}
         env_vars: |-
           VCS_REVISION=${{ steps.commit.outputs.short }}
 
