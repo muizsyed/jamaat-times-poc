@@ -39,7 +39,7 @@ jobs:
         version: v1
         project_id: ${{ secrets.GCP_PROJECT }}
         flags: |-
-          --bucket=us-artifacts-salaah-x
+          --bucket=gs://us-artifacts-salaah-x
         env_vars: |-
           VCS_REVISION=${{ steps.commit.outputs.short }}
 
