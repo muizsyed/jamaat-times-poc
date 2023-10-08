@@ -71,8 +71,6 @@ func loadData() {
 		timetablePath := filepath.Join(path, "data", masjidDirectory.Name(), monthFile)
 
 		masjid := loadMasjidMetadata(metadataPath)
-		//masjidda, _ := json.Marshal(masjid)
-		//fmt.Println(string(masjidda))
 
 		days := loadMasjidTimetable(timetablePath)
 
