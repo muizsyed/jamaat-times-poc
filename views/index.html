@@ -7,6 +7,8 @@
     Click Me
   </button>
 
+ 
+
 <div class="flex flex-col mt-4">
 
     <div class="relative overflow-x-auto shadow sm:rounded-sm">
@@ -62,6 +64,30 @@
                 </tr>
             </thead>
             <tbody>
+
+                {{range $MasjidDay := .MasjidDays}}
+                <tr class="bg-white border-b ">
+                    <th scope="row" class="px-6 py-4 font-medium text-[#411160] whitespace-nowrap">
+                    {{$MasjidDay.Masjid.Name }}
+                    </th>
+                    <td class="px-6 py-4">
+                        {{$MasjidDay.Day.Fajr.Jamaat }}
+                    </td>
+                    <td class="px-6 py-4">
+                        {{$MasjidDay.Day.Zuhr.Jamaat }}
+                    </td>
+                    <td class="px-6 py-4">
+                        {{$MasjidDay.Day.Asr.Jamaat }}
+                    </td>
+                    <td class="px-6 py-4">
+                        {{$MasjidDay.Day.Maghrib.Jamaat }}
+                    </td>
+                    <td class="px-6 py-4">
+                        {{$MasjidDay.Day.Esha.Jamaat }}
+                    </td>
+                </tr>
+                {{end}}
+
                 <tr class="bg-white border-b ">
                     <th scope="row" class="px-6 py-4 font-medium text-[#411160] whitespace-nowrap">
                         Apple MacBook Pro 17"
