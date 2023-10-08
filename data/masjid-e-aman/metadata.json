@@ -1,0 +1,7 @@
+{
+    "name": "Masjid-E-Aman",
+    "slug": "masjid-e-aman",
+    "longitude": 223.2323,
+    "lattitude": 2323,
+    "source": "https://www.masjid-timetable.com/api/timetable.php?masjid_id=612"
+}
