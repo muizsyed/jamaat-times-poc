@@ -1,0 +1,715 @@
+[
+    {
+      "date": "2023-10-01",
+      "fajr": {
+        "start": "05:14",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:02",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:50",
+        "jamaat": "18:15"
+      },
+      "maghrib": {
+        "start": "18:50",
+        "jamaat": "18:50"
+      },
+      "esha": {
+        "start": "20:07",
+        "jamaat": "20:45"
+      }
+    },
+    {
+      "date": "2023-10-02",
+      "fajr": {
+        "start": "05:15",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:02",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:47",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:48",
+        "jamaat": "18:48"
+      },
+      "esha": {
+        "start": "20:17",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-03",
+      "fajr": {
+        "start": "05:17",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:02",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:45",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:46",
+        "jamaat": "18:46"
+      },
+      "esha": {
+        "start": "20:14",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-04",
+      "fajr": {
+        "start": "05:19",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:01",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:43",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:43",
+        "jamaat": "18:43"
+      },
+      "esha": {
+        "start": "20:12",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-05",
+      "fajr": {
+        "start": "05:21",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:01",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:41",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:41",
+        "jamaat": "18:41"
+      },
+      "esha": {
+        "start": "20:10",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-06",
+      "fajr": {
+        "start": "05:23",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:01",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:39",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:39",
+        "jamaat": "18:39"
+      },
+      "esha": {
+        "start": "20:07",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-07",
+      "fajr": {
+        "start": "05:25",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:00",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:37",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:36",
+        "jamaat": "18:36"
+      },
+      "esha": {
+        "start": "20:05",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-08",
+      "fajr": {
+        "start": "05:26",
+        "jamaat": "06:30"
+      },
+      "zuhr": {
+        "start": "13:00",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:35",
+        "jamaat": "17:00"
+      },
+      "maghrib": {
+        "start": "18:34",
+        "jamaat": "18:34"
+      },
+      "esha": {
+        "start": "20:03",
+        "jamaat": "20:30"
+      }
+    },
+    {
+      "date": "2023-10-09",
+      "fajr": {
+        "start": "05:28",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "13:00",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:33",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:32",
+        "jamaat": "18:32"
+      },
+      "esha": {
+        "start": "20:00",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-10",
+      "fajr": {
+        "start": "05:30",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "13:00",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:31",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:30",
+        "jamaat": "18:30"
+      },
+      "esha": {
+        "start": "19:58",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-11",
+      "fajr": {
+        "start": "05:32",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:59",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:29",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:27",
+        "jamaat": "18:27"
+      },
+      "esha": {
+        "start": "19:56",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-12",
+      "fajr": {
+        "start": "05:34",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:59",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:27",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:25",
+        "jamaat": "18:25"
+      },
+      "esha": {
+        "start": "19:54",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-13",
+      "fajr": {
+        "start": "05:35",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:59",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:25",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:23",
+        "jamaat": "18:23"
+      },
+      "esha": {
+        "start": "19:51",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-14",
+      "fajr": {
+        "start": "05:37",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:59",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:23",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:21",
+        "jamaat": "18:21"
+      },
+      "esha": {
+        "start": "19:49",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-15",
+      "fajr": {
+        "start": "05:39",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:58",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:21",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:18",
+        "jamaat": "18:18"
+      },
+      "esha": {
+        "start": "19:47",
+        "jamaat": "20:15"
+      }
+    },
+    {
+      "date": "2023-10-16",
+      "fajr": {
+        "start": "05:40",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:58",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:19",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:04",
+        "jamaat": "18:04"
+      },
+      "esha": {
+        "start": "19:45",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-17",
+      "fajr": {
+        "start": "05:42",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:58",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:17",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:14",
+        "jamaat": "18:14"
+      },
+      "esha": {
+        "start": "19:43",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-18",
+      "fajr": {
+        "start": "05:44",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:58",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:03",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:12",
+        "jamaat": "18:12"
+      },
+      "esha": {
+        "start": "19:41",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-19",
+      "fajr": {
+        "start": "05:46",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:13",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:10",
+        "jamaat": "18:10"
+      },
+      "esha": {
+        "start": "19:39",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-20",
+      "fajr": {
+        "start": "05:47",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:11",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:08",
+        "jamaat": "18:08"
+      },
+      "esha": {
+        "start": "19:37",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-21",
+      "fajr": {
+        "start": "05:49",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:09",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:05",
+        "jamaat": "18:05"
+      },
+      "esha": {
+        "start": "19:35",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-22",
+      "fajr": {
+        "start": "05:51",
+        "jamaat": "06:45"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:07",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:03",
+        "jamaat": "18:03"
+      },
+      "esha": {
+        "start": "19:33",
+        "jamaat": "20:00"
+      }
+    },
+    {
+      "date": "2023-10-23",
+      "fajr": {
+        "start": "05:52",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:05",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "18:01",
+        "jamaat": "18:01"
+      },
+      "esha": {
+        "start": "19:31",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-24",
+      "fajr": {
+        "start": "05:54",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:03",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "17:59",
+        "jamaat": "17:59"
+      },
+      "esha": {
+        "start": "19:29",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-25",
+      "fajr": {
+        "start": "05:56",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:57",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "16:01",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "17:57",
+        "jamaat": "17:57"
+      },
+      "esha": {
+        "start": "19:27",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-26",
+      "fajr": {
+        "start": "05:57",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:56",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "15:59",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "17:55",
+        "jamaat": "17:55"
+      },
+      "esha": {
+        "start": "19:25",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-27",
+      "fajr": {
+        "start": "05:59",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:56",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "15:58",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "17:53",
+        "jamaat": "17:53"
+      },
+      "esha": {
+        "start": "19:23",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-28",
+      "fajr": {
+        "start": "06:01",
+        "jamaat": "07:00"
+      },
+      "zuhr": {
+        "start": "12:56",
+        "jamaat": "13:30"
+      },
+      "asr": {
+        "start": "15:56",
+        "jamaat": "16:45"
+      },
+      "maghrib": {
+        "start": "17:51",
+        "jamaat": "17:51"
+      },
+      "esha": {
+        "start": "19:21",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-29",
+      "fajr": {
+        "start": "05:02",
+        "jamaat": "06:15"
+      },
+      "zuhr": {
+        "start": "11:56",
+        "jamaat": "13:00"
+      },
+      "asr": {
+        "start": "14:54",
+        "jamaat": "15:00"
+      },
+      "maghrib": {
+        "start": "16:49",
+        "jamaat": "16:49"
+      },
+      "esha": {
+        "start": "18:20",
+        "jamaat": "18:30"
+      }
+    },
+    {
+      "date": "2023-10-30",
+      "fajr": {
+        "start": "05:04",
+        "jamaat": "06:15"
+      },
+      "zuhr": {
+        "start": "11:56",
+        "jamaat": "13:00"
+      },
+      "asr": {
+        "start": "14:52",
+        "jamaat": "15:00"
+      },
+      "maghrib": {
+        "start": "16:47",
+        "jamaat": "16:47"
+      },
+      "esha": {
+        "start": "18:18",
+        "jamaat": "19:45"
+      }
+    },
+    {
+      "date": "2023-10-31",
+      "fajr": {
+        "start": "05:06",
+        "jamaat": "06:15"
+      },
+      "zuhr": {
+        "start": "11:56",
+        "jamaat": "13:00"
+      },
+      "asr": {
+        "start": "14:50",
+        "jamaat": "15:00"
+      },
+      "maghrib": {
+        "start": "16:45",
+        "jamaat": "16:45"
+      },
+      "esha": {
+        "start": "18:16",
+        "jamaat": "19:45"
+      }
+    }
+  ]
